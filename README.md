@@ -11,6 +11,7 @@ My interests revolve around sustainability and the fascinating world of life sci
 ### 💻 Current Endeavors
 
 - 🚀 Learning C Programming @ 42 Porto
+  - Check out my progress [here](https://github.com/damachad/42_common_core)
 - 🐍 Learning Python @ Udemy
   - Check out my progress for the [100 days of code](https://www.udemy.com/course/100-days-of-code/) challenge [here](https://github.com/damachad/Python_exercises)
 
