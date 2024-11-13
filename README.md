@@ -16,7 +16,7 @@ I'm David, a passionate individual with a background in Biology who's currently 
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,bash,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,bash,vscode,docker,nginx" />
   </a>
 </p>
 
