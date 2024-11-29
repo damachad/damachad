@@ -1,16 +1,15 @@
 ## 👋 Hey there!
 
-I'm David, a passionate individual with a background in Biology who's currently on a journey to become a software developer at [42 Porto](https://www.42porto.com/). 
+I'm David, I have a background in Biology and am currently on a journey to become a software developer at [42 Porto](https://www.42porto.com/).   
+You can check out my progress on their curriculum [here](https://github.com/damachad/42_common_core).
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&link=www.linkedin.com%2Fin%2Fdavid-correia-15340185)
-![Static Badge](https://img.shields.io/badge/Porto-black?style=flat&logo=42&link=https%3A%2F%2Fprofile.intra.42.fr%2Fusers%2Fdamachad)
+### 💻 Currently learning
 
-### 💻 Current Endeavors
-
-- 🚀 Learning Software Development @ 42 Porto
-  - Check out my progress [here](https://github.com/damachad/42_common_core)
-- 🐍 Learning Python @ Udemy
-  - Check out my progress for the [100 days of code](https://www.udemy.com/course/100-days-of-code/) challenge [here](https://github.com/damachad/Python_exercises)
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,javascript,postgresql" />
+  </a>
+</p>
 
 ### 🛠️ Skills
 
@@ -20,9 +19,6 @@ I'm David, a passionate individual with a background in Biology who's currently 
   </a>
 </p>
 
-### 🌍 Passion for Sustainability
+Feel free to connect with me and let's collaborate on exciting projects! 🌟   
 
-I'm deeply committed to sustainability and dedicated to making a positive impact through my work. 
-I believe that by merging my knowledge and skills from diverse fields, I can contribute to a more sustainable and vibrant future.
-
-Feel free to connect with me and let's collaborate on exciting projects! 🌟
+![github-stats](https://github-readme-stats.vercel.app/api?username=damachad&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage)
