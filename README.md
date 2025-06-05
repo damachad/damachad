@@ -7,7 +7,7 @@ You can check out my progress on their curriculum [here](https://github.com/dama
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,prisma,tailwind" />
+    <img src="https://skillicons.dev/icons?i=typescript,prisma" />
   </a>
 </p>
 
