@@ -37,5 +37,34 @@ I'm a passionate **Backend Developer** with a Master's degree in **Plant Biotech
 </table>
 
 ---
+## 🧠 42 School Projects
+
+| 🏅 Rank | 📁 Project | 🔗 Link | 📝 Description |
+|--------|------------|--------|----------------|
+| 0 | libft | [libft](https://github.com/damachad/42_libft) | Recode functions from standard libraries and create a personal library |
+| 1 | ft_printf | [ft_printf](https://github.com/damachad/42_ft_printf) | Recreate `printf()` with limited format specifiers |
+| 1 | get_next_line | [get_next_line](https://github.com/damachad/42_get_next_line) | Create a function that reads lines from a file (line by line) |
+| 1 | born2beroot | [born2beroot](https://github.com/damachad/42_Born2beRoot) | Configure a virtual machine according to specific guidelines |
+| 2 | minitalk | [minitalk](https://github.com/damachad/42_minitalk) | Implement a data exchange system between two programs |
+| 2 | so_long | [so_long](https://github.com/damachad/42_so_long) | Develop a simple 2D game |
+| 2 | push_swap | [push_swap](https://github.com/damachad/42_push_swap) | Implement an optimized sorting algorithm that sorts integers using two stacks |
+| 3 | minishell | [minishell](https://github.com/damachad/42_minishell) | Create a basic shell with custom command execution |
+| 3 | philosophers | [philosophers](https://github.com/damachad/42_philosophers) | Simulate dining philosophers using threads and mutexes |
+| 4 | NetPractice | *(N/A)* | Hands-on networking exercises |
+| 4 | cub3d | [cub3D](https://github.com/damachad/42_cub3d) | Render a 3D maze using RayCasting and MiniLibX |
+| 4 | cpp_modules | [cpp_modules](https://github.com/damachad/42_cpp_modules) | Learn C++ through modular exercises |
+| 5 | inception | [inception](https://github.com/damachad/42_inception) | Build a multi-container Docker app with NGINX, WordPress & MariaDB |
+| 5 | webserv | [webserv](https://github.com/damachad/42_webserv) | Create an HTTP web server inspired by NGINX |
+| 6 | ft_transcendence | *(WIP)* | Real-time multiplayer pong SPA with Fastify, Prisma, TS, Tailwind, etc. |
+
+---
+## 🔎 Personal Projects
+| 📁 Project | 📝 Description |
+|------------|-------------------------|
+| [django_blog](https://github.com/damachad/django_blog) | Create a simple blog using Django's Class-Based Views, Bootstrap, and SQLite |
+|[flight_club](https://github.com/damachad/Python_100_days_of_code/tree/main/Day%20039%20and%2040%20-%20Flight%20Club)| Flight deal tracker that uses APIs to search for the cheapest flights and alerts users via SMS and email|
+|[flashcard_app](https://github.com/damachad/Python_100_days_of_code/tree/main/Day%20031%20-%20flashcard%20app)|Flashcard app that helps you memorize custom word lists and track your progress|
+
+---
 
 **Feel free to connect with me and let's collaborate on exciting projects!** 🌟   
