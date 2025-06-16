@@ -3,14 +3,30 @@
 [![GitHub followers](https://img.shields.io/github/followers/damachad?label=Follow&style=social)](https://github.com/damachad)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/david-correia-15340185)
 
-## 🚀 About Me
+<div align="center">
 
-I'm a passionate **Backend Developer** with a Master's degree in **Plant Biotechnology**, now building web systems with a strong focus on performance and scalability.
+<table>
+  <tr>
+    <td style="min-width: 200px; max-width: 500px; padding-right: 20px; vertical-align: top;">
 
-- 🔭 I’m currently working on: `ft_transcendence` at [42 Porto](https://www.42porto.com/). Check out my curriculum progress [here](https://github.com/damachad/42_common_core).
-- 🌱 I’m learning: **Advanced TypeScript patterns, backend architecture, and how to write cleaner, more testable code**
-- 💬 Happy to chat about: **REST APIs, backend tools, database design**
-- ⚡ Fun fact: **I am also learning Japanese!** 🇯🇵
+<h2>🚀 About Me</h2>
+
+I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <strong>Plant Biotechnology</strong>, now building web systems with a strong focus on performance and scalability.
+
+<ul>
+  <li>🔭 I’m currently working on: <code>ft_transcendence</code> at <a href="https://www.42porto.com/">42 Porto</a>. Check out my curriculum progress <a href="https://github.com/damachad/42_common_core">here</a>.</li>
+  <li>🌱 I’m learning: <strong>Advanced TypeScript patterns, backend architecture, and how to write cleaner, more testable code</strong></li>
+  <li>💬 Happy to chat about: <strong>REST APIs, backend tools, database design</strong></li>
+  <li>⚡ Fun fact: <strong>I am also learning Japanese!</strong> 🇯🇵</li>
+</ul>
+    </td>
+    <td style="vertical-align: middle; text-align: center;">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" alt="Cool computer" style="max-width: 100%; height: auto;" width="150">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
