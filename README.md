@@ -21,7 +21,7 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 </ul>
     </td>
     <td style="vertical-align: middle; text-align: center;">
-      <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" target="_blank">
+      <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" >
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" alt="Cool computer" style="max-width: 100%; height: auto;" width="150">
       </a>
     </td>
@@ -35,40 +35,40 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 ## Tech Stack
 
 <p>
-  <a href="https://www.c-language.org/" target="_blank">
+  <a href="https://www.c-language.org/" >
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
   </a>
-  <a href="https://cplusplus.com/doc/tutorial/" target="_blank">
+  <a href="https://cplusplus.com/doc/tutorial/" >
     <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
+  <a href="https://www.python.org/" >
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-scm.com/" >
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
-  <a href="https://github.com/" target="_blank">
+  <a href="https://github.com/" >
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+  <a href="https://www.gnu.org/software/bash/" >
     <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
+  <a href="https://code.visualstudio.com/" >
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
-  <a href="https://www.docker.com/" target="_blank">
+  <a href="https://www.docker.com/" >
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </a>
-  <a href="https://nginx.org/en/" target="_blank">
+  <a href="https://nginx.org/en/" >
     <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <a href="https://www.typescriptlang.org/" >
     <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" />
   </a>
-  <a href="https://www.prisma.io/" target="_blank">
+  <a href="https://www.prisma.io/" >
     <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />
   </a>
-  <a href="https://fastify.dev/" target="_blank">
+  <a href="https://fastify.dev/" >
     <img src="https://avatars.githubusercontent.com/u/24939410?s=200&v=4" alt="Fastify" style="height: 48px;" />
   </a>
 </p>
