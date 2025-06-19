@@ -77,10 +77,10 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 <table>
   <tr>
     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=damachad&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+       <img src="https://github-readme-stats.vercel.app/api?username=damachad&count_private=true&show_icons=true&theme=transparent&rank_icon=github&hide=issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
     </td>
     <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damachad&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damachad&layout=compact&theme=transparent" alt="Top Languages" />
     </td>
   </tr>
 </table>
