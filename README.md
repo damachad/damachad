@@ -9,7 +9,7 @@
   <tr>
     <td style="min-width: 200px; max-width: 500px; padding-right: 20px; vertical-align: top;">
 
-<h2>🚀 About Me</h2>
+<h2>About Me</h2>
 
 I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <strong>Plant Biotechnology</strong>, now building web systems with a strong focus on performance and scalability.
 
@@ -21,7 +21,7 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 </ul>
     </td>
     <td style="vertical-align: middle; text-align: center;">
-      <a href="https://www.myretrotvs.com/" target="_blank">
+      <a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" target="_blank">
         <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" alt="Cool computer" style="max-width: 100%; height: auto;" width="150">
       </a>
     </td>
@@ -32,7 +32,7 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <a href="https://www.c-language.org/" target="_blank">
@@ -75,7 +75,7 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <table>
   <tr>
     <td>
@@ -88,9 +88,9 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 </table>
 
 ---
-## 🧠 42 School Projects
+## 42 School Projects
 
-| 🏅 Rank | 📁 Project | 🔗 Link | 📝 Description |
+| Rank | Project | Link | Description |
 |--------|------------|--------|----------------|
 | 0 | libft | [libft](https://github.com/damachad/42_libft) | Recode functions from standard libraries and create a personal library |
 | 1 | ft_printf | [ft_printf](https://github.com/damachad/42_ft_printf) | Recreate `printf()` with limited format specifiers |
@@ -109,8 +109,8 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 | 6 | ft_transcendence | *(WIP)* | Real-time multiplayer pong SPA with Fastify, Prisma, TS, Tailwind, etc. |
 
 ---
-## 🔎 Personal Projects
-| 📁 Project | 📝 Description |
+## Personal Projects
+| Project | Description |
 |------------|-------------------------|
 | [django_blog](https://github.com/damachad/django_blog) | Create a simple blog using Django's Class-Based Views, Bootstrap, and SQLite |
 |[flight_club](https://github.com/damachad/Python_100_days_of_code/tree/main/Day%20039%20and%2040%20-%20Flight%20Club)| Flight deal tracker that uses APIs to search for the cheapest flights and alerts users via SMS and email|
