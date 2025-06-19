@@ -21,7 +21,9 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 </ul>
     </td>
     <td style="vertical-align: middle; text-align: center;">
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" alt="Cool computer" style="max-width: 100%; height: auto;" width="150">
+      <a href="https://www.myretrotvs.com/" target="_blank">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZpdmN4cjRiMzZkZHVkdW51ejEyenBncG04c3VjcmdlMnVtcjgyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DVzgDqMj7B6KxFWTlL/giphy.gif" alt="Cool computer" style="max-width: 100%; height: auto;" width="150">
+      </a>
     </td>
   </tr>
 </table>
