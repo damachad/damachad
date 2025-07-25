@@ -14,7 +14,7 @@
 I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <strong>Plant Biotechnology</strong>, now building web systems with a strong focus on performance and scalability.
 
 <ul>
-  <li>🔭 I’m currently working on: <code>ft_transcendence</code> at <a href="https://www.42porto.com/">42 Porto</a>. Check out my curriculum progress <a href="https://github.com/damachad/42_common_core">here</a>.</li>
+  <li>🔭 I recently delivered the <code>ft_transcendence</code> project at <a href="https://www.42porto.com/">42 Porto</a>. Check out my curriculum progress <a href="https://github.com/damachad/42_common_core">here</a>.</li>
   <li>🌱 I’m learning: <strong>Advanced TypeScript patterns, backend architecture, and how to write cleaner, more testable code</strong></li>
   <li>💬 Happy to chat about: <strong>REST APIs, backend tools, database design</strong></li>
   <li>⚡ Fun fact: <strong>I am also learning Japanese!</strong> 🇯🇵</li>
