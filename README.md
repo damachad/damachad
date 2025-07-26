@@ -106,7 +106,7 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 | 4 | cpp_modules | [cpp_modules](https://github.com/damachad/42_cpp_modules) | Learn C++ through modular exercises |
 | 5 | inception | [inception](https://github.com/damachad/42_inception) | Build a multi-container Docker app with NGINX, WordPress & MariaDB |
 | 5 | webserv | [webserv](https://github.com/damachad/42_webserv) | Create an HTTP web server inspired by NGINX |
-| 6 | ft_transcendence | [ft_transcendence](https://github.com/damachad/42Porto-Transcendence) | Real-time multiplayer pong SPA with Fastify, Prisma, TS, Tailwind, etc. |
+| 6 | ft_transcendence | [ft_transcendence](https://github.com/miguelsrmv/42Porto-Transcendence) | Real-time multiplayer pong SPA with Fastify, Prisma, TS, Tailwind, etc. |
 
 ---
 ## Personal Projects
