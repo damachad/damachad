@@ -109,6 +109,12 @@ I'm a passionate <strong>Backend Developer</strong> with a Master's degree in <s
 | 6 | ft_transcendence | [ft_transcendence](https://github.com/miguelsrmv/42Porto-Transcendence) | Real-time multiplayer pong SPA with Fastify, Prisma, TS, Tailwind, etc. |
 
 ---
+## 42 Advanced Projects
+| Tech Stack | Project | Description |
+|------------|---------|----------------|
+| Java | [avaj_launcher](https://github.com/damachad/42_avaj_launcher) | Simulation program that models weather changes and their effects on various types of aircraft |
+
+---
 ## Personal Projects
 | Project | Description |
 |------------|-------------------------|
